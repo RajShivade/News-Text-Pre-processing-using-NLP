@@ -1,9 +1,9 @@
-## True & Fake News Text Preprocessing | NLP Project
+## True & Fake News Text Preprocessing | NLP Project:
 
 This project demonstrates end-to-end text preprocessing for identifying fake vs true news using Python and NLP techniques.
 It includes cleaning, tokenization, lemmatization, stopword removal, TF-IDF vectorization, and visualizations such as WordClouds and frequency analysis.
 
-## 🚀 Project Goals
+## 🚀 Project Goals:
 
 - Understand linguistic differences between true and fake news
 
@@ -13,7 +13,7 @@ It includes cleaning, tokenization, lemmatization, stopword removal, TF-IDF vect
 
 - Prepare clean dataset for model training
 
-## 📂 Project Structure
+## 📂 Project Structure:
     Fake-News-Detection-Text-Preprocessing/
     │
     ├── data/
@@ -27,7 +27,7 @@ It includes cleaning, tokenization, lemmatization, stopword removal, TF-IDF vect
     │
     └── README.md
 
-## 🔧 Technologies Used
+## 🔧 Technologies Used:
 
 - Python
 
@@ -41,7 +41,7 @@ It includes cleaning, tokenization, lemmatization, stopword removal, TF-IDF vect
 
 - Scikit-learn
 
-## 🧹 Text Preprocessing Workflow
+## 🧹 Text Preprocessing Workflow:
 
 - Removing punctuation, numbers, and symbols
 
@@ -57,7 +57,7 @@ It includes cleaning, tokenization, lemmatization, stopword removal, TF-IDF vect
 
 - WordClouds for visualization
 
-## 📊 Visual Outputs Generated
+## 📊 Visual Outputs Generated:
 
 - WordCloud for True News
 
@@ -65,7 +65,7 @@ It includes cleaning, tokenization, lemmatization, stopword removal, TF-IDF vect
 
 - Most Frequent Word Comparison
 
-## 🌟 Future Scope
+## 🌟 Future Scope:
 
 - Train ML model using TF-IDF
 
