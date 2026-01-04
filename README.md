@@ -5,13 +5,14 @@ It includes cleaning, tokenization, lemmatization, stopword removal, TF-IDF vect
 
 ## 🚀 Project Goals :
 
-- Understand linguistic differences between true and fake news
+- Understand linguistic differences between true and fake news.
 
-- Build preprocessing pipeline for downstream ML models
+- Build preprocessing pipeline for downstream ML models.
 
-- Visualize most frequent words
+- Visualize most frequent words.
 
-- Prepare clean dataset for model training
+- Prepare clean dataset for model training.
+
 
 ## 📂 Project Structure :
     Fake-News-Detection-Text-Preprocessing/
@@ -43,34 +44,34 @@ It includes cleaning, tokenization, lemmatization, stopword removal, TF-IDF vect
 
 ## 🧹 Text Preprocessing Workflow:
 
-- Removing punctuation, numbers, and symbols
+- Removing punctuation, numbers, and symbols.
 
-- Converting text to lowercase
+- Converting text to lowercase.
 
-- Stopword removal
+- Stopword removal.
 
-- Tokenization
+- Tokenization.
 
 - Lemmatization
 
-- Word Frequency calculation
+- Word Frequency calculation.
 
-- WordClouds for visualization
+- WordClouds for visualization.
 
 ## 📊 Visual Outputs Generated :
 
-- WordCloud for True News
+- WordCloud for True News.
 
-- WordCloud for Fake News
+- WordCloud for Fake News.
 
-- Most Frequent Word Comparison
+- Most Frequent Word Comparison.
 
 ## 🌟 Future Scope :
 
-- Train ML model using TF-IDF
+- Train ML model using TF-IDF.
 
-- Build fake-news classifier
+- Build fake-news classifier.
 
-- Use deep learning (LSTM/BERT)
+- Use deep learning (LSTM/BERT).
 
-- Build Streamlit UI
+- Build Streamlit UI.
