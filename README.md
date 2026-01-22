@@ -75,3 +75,12 @@ It includes cleaning, tokenization, lemmatization, stopword removal, TF-IDF vect
 - Use deep learning (LSTM/BERT).
 
 - Build Streamlit UI.
+
+
+## 👨‍💻 Author :-
+
+**Raj Shivade**  
+📘 [LinkedIn](http://www.linkedin.com/in/raj-shivade25)  
+💻 [GitHub](https://github.com/RajShivade)
+
+  
