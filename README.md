@@ -1,4 +1,4 @@
-## True & Fake News Text Preprocessing | NLP Project :-
+## True & Fake News Text Preprocessing | NLP Project:-
 
 This project demonstrates end-to-end text preprocessing for identifying fake vs true news using Python and NLP techniques.
 It includes cleaning, tokenization, lemmatization, stopword removal, TF-IDF vectorization, and visualizations such as WordClouds and frequency analysis.
